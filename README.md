@@ -5,6 +5,9 @@ Welcome to the "100 Days of JavaScript" challenge! This repository is dedicated 
 
 ## How It Works
 
+- Each day, you will find a new JavaScript coding challenge or project in the "challenges" directory.
+- Fork this repository and create a branch for each day's challenge.
+- Solve the challenge and submit a pull request to share your solution with the community.
 
 
 ## Guidelines
